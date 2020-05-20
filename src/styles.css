@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400, 500);
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+.App {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  background-color: #85de9d;
+}
+.animate {
+  transition: all 0.1s;
+  -webkit-transition: all 0.1s;
+}
+
+.action-button {
+  position: relative;
+  padding: 10px 40px;
+  margin: 0px 10px 10px 0px;
+
+  font-family: "Pacifico", cursive;
+  font-size: 25px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.blue {
+  background-color: #3498db;
+  border-bottom: 5px solid #2980b9;
+  text-shadow: 0px -2px #2980b9;
+}
+button {
+  font-family: "Pacifico", cursive;
+}
+
+.unordered {
+  list-style: none;
+}

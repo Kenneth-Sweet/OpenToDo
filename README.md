@@ -1,2 +1,0 @@
-# OpenToDo
-Created with CodeSandbox
